@@ -1,0 +1,13 @@
+1-intro-floats Instructions
+
+Look at the HTML file source. Notice the comments explaining the type of layout desired in a 4-column grid system at desktop dimensions.
+
+Write the appropriate CSS to achieve the layouts specified for desktop.
+
+Go farther:
+
+Write the grid in mobile-first fashion.
+
+* Styles outside the media queries are universal and work to display the site in mobile format.
+
+* Two media queries are provided for "tablet" and "desktop" dimensions. Write styles that override the mobile layouts here. 

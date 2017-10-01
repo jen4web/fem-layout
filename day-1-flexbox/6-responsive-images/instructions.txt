@@ -1,0 +1,8 @@
+6-responsive-images Instructions
+
+This exercise takes one image, in three different sizes in the img folder, and displays them on an HTML page using the <picture> tag and the Picturefill polyfill.
+
+We will also examine responsive background images, using tips from Tim Kadlec. In this way, we can have different sizes of background images via media query, with only one image loading, rather than downloading several options and displaying one.
+
+Media query asset downloading results 
+http://timkadlec.com/2012/04/media-query-asset-downloading-results/

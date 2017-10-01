@@ -1,0 +1,3 @@
+14-grid-offsets Instructions
+
+In this exercise, I've removed Article #2 from our lineup. Using grid-area and its layout capability, leave Article #1 and Article #3 in their original places, while leaving a hole for where Article #2 used to be.

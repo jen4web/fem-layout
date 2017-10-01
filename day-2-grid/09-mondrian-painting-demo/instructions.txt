@@ -1,0 +1,9 @@
+9-mondrian-painting-demo Instructions
+
+Jen will walk through an interactive demo in which you'll reconstruct a painting by Piet Mondrian in CSS Grid. Copy the painting as closely as possible, given what you know about CSS Grid.
+
+Note: You will not be 100% perfect -- the painting isn't 100% perfect! But you will be very close.
+
+If you have more time:
+
+Write a media query so that when the screen is small, you flip the painting upside down.

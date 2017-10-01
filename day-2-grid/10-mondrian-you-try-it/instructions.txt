@@ -1,0 +1,13 @@
+10-mondrian-you-try-it Instructions
+
+Now that you've built one Mondrian work of art, try for a second on your own. The broad steps you'll need to follow include:
+
+1. Determine how many rows and columns the painting has.
+
+2. Determine the approximate size of each box, in pixels. (Use a browser measuring tool to do this.)
+
+3. Write the Grid code and get the boxes to the approximate layout desired.
+
+4. Now add the extra code that will call out sizes for each row and column on the page.
+
+5. Add background colors to finish.

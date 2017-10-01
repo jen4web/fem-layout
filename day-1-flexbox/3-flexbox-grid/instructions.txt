@@ -1,0 +1,7 @@
+3-flexbox-grid Instructions
+
+First, we'll examine the Flexbox Grid (www.flexboxgrid.com) and Bootstrap 4's grid system to see their concepts for making Flexbox work as a grid.
+
+Next, we'll work with the files in the "begin" folder to create a 4-column grid system. The end result will be visually like the float grid system written earlier, only written with Flexbox. 
+
+We'll also write some code for reversing the rows and reordering boxes within a row.

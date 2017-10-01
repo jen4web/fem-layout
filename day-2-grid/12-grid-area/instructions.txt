@@ -1,0 +1,5 @@
+12-grid-area Instructions
+
+The next few exercises are short, quick, and more instructional than real-world.
+
+In this exercise, we'll learn the grid-area syntax. We have been creating grids using grid-columns and grid-rows. Now we'll name an area, then call for a layout using those named areas. 

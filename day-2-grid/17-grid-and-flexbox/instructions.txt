@@ -1,0 +1,9 @@
+17-grid-and-flexbox Instructions
+
+We spent an entire day working with Flexbox as a hack -- making it function as a grid. 
+
+We completed one exercise where we used Flexbox as we should, laying out an image gallery.
+
+In this exercise, combine yesterday's Flexbox image gallery with the Grid layout of today's web page.
+
+This is how layouts of the future will work!

@@ -1,0 +1,3 @@
+13-grid-nesting Instructions
+
+In this exercise, I've added a series of articles inside of the main article. Write a nested grid to display these on the page at different media queries.

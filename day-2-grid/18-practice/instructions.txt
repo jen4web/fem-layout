@@ -1,0 +1,13 @@
+18-Practice Instructions
+
+Review the last two day's worth of work.
+
+Finish building the remaining pages for this website.
+
+* Have the nav bar link to all pages.
+* Use Flexbox and Grid appropriately to complete page layouts.
+* Try coding a contact form or a pie ordering form -- should the form layout be completed with Flexbox, Grid, or something else?
+
+To get the materials for your practice, look in the "end" folders from some of the chapters and combine your work.
+
+For new pages, look in the "branding" folder for colors, images, and copy.

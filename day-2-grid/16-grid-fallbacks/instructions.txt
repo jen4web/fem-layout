@@ -1,0 +1,9 @@
+16-grid-fallbacks Instructions
+
+Rachel Andrew has provided an excellent resource for fallbacks with Grid. If you must support an older browser that is not Grid-compatible, she provides a number of ways that you can write a single code base but have the layout work on old and new browsers.
+
+https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks
+
+In general, I don't talk about browser hacks, because every project and organization supports different browsers at different levels. I prefer to teach standards-compliant code and let you look up the hacks on your own later.
+
+In this case, this resource is excellent, and it will give you ways to use Grid today, while taking advantage of the cascade and the @supports construct.

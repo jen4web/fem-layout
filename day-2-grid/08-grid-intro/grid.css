@@ -1,0 +1,39 @@
+/* this stylesheet deals with layout by grid */
+.wrapper {
+	display: grid;
+	grid-gap: 10px;
+	margin: 1%;
+}
+.row {
+	display: flex;
+	flex: 0 1 auto;
+	flex-flow: row wrap;
+	justify-content: center;
+	margin-top: 1%;
+}
+
+.row > div {
+	margin-right: 0.5%;
+}
+
+/* Large devices */
+@media (min-width: 880px) { 
+	header {
+		grid-column: 1 / 10;
+	}
+	section {
+		grid-column: 2 / 10;
+		grid-row: 2 / 3; 
+	}
+	aside {
+		grid-column: 1 / 2;
+		grid-row: 2 / 3; 
+	}
+	footer {
+		grid-column: 1 / 10;
+	}
+
+}
+
+
+

@@ -1,0 +1,11 @@
+7-wrapup Instructions
+
+With the material you have learned today, create more pages for the Pie in the Sky Bakery website.
+
+* Integrate a responsive image on the History page. A large-format photo of Merilee is provided.
+
+* Integrate a responsive background image on one page of the site. (I chose to do this on the home page, as seen in the "end" folder.)
+
+* Copy the image gallery we created in chapter 5 into a Pie in the Sky-branded page.
+
+If you have extra time, feel free to code additional pages. There are colors, images, and copy in the "branding" folder.

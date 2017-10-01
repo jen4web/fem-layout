@@ -1,0 +1,13 @@
+5-image-gallery Instructions
+
+Starting files are a series of images with captions, marked up as figures.
+
+Display these on the page as an image gallery using Flexbox. 
+
+Pretend you do not know how many images you will display. This is a real-world problem -- you may have a server sending you many images, or a few images, which must be displayed on a page to look good.
+
+Test your result by adding more images (copy and paste the code present a few times) or removing images (delete some of the images) and make sure the page still looks good.
+
+Hint: this is NOT a grid-based problem. This is how Flexbox was actually meant to be used -- a series of items, displayed on a page.
+
+There are two possible solutions I identified. Both are technically correct. You can choose which you like based on your design preferences. Perhaps you can find other solutions?

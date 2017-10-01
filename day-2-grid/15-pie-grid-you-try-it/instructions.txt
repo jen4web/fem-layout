@@ -1,0 +1,9 @@
+15-pie-grid-you-try-it Instructions
+
+Given all of the new Grid principles you've just learned, now apply them to the History page.
+
+The starting files are yesterday's work with Flexbox grid. Remove the Flexbox code and replace it with CSS Grid code instead.
+
+You may change any HTML and CSS as required.
+
+If you have extra time, feel free to move on to another page and code that as well.

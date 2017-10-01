@@ -1,0 +1,31 @@
+Flexbox Properties
+
+Parent (Flex Container)
+	display: flex | inline-flex;
+
+	flex-direction: row | row-reverse | column | column-reverse;
+
+	flex-wrap: wrap | nowrap | wrap-reverse;
+
+	flex-flow (shorthand for flex-direction and flex-wrap)
+
+	justify-content (main axis): flex-start | flex-end | center | space-between | space-around | space-evenly;
+
+	align-items (cross axis - adjust to individual sizes): flex-start | flex-end | center | baseline | stretch;
+
+	align-content (cross axis - adjust to largest item): flex-start | flex-end | center | stretch | space-between | space-around;
+
+
+Children (Flex Items)
+	order: <integer>;
+
+	flex-grow: <number>; 
+
+	flex-shrink: <number>; 
+
+	flex-basis: <length> | auto;
+
+	flex: shorthand for grow, shrink, and basis (default:  0 1 auto)
+	
+	align-self: overrides alignment set on parent
+

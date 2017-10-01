@@ -1,0 +1,7 @@
+8-grid-intro Instructions
+
+Jen will talk about Grid via the Powerpoint slides to get started.
+
+She will show some reordering of Grid with reordering.html and .css.
+
+Use the file Grid Properties.txt as a reference through the day. Parent and child grid properties are identified, along with common values. Not all Grid properties will be covered.

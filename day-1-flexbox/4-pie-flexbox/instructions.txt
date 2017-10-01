@@ -1,0 +1,11 @@
+4-pie-flexbox Instructions
+
+Provided is the History page of the Pie in the Sky Bakery website. This page was laid out using a 4-column floated grid system.
+
+Recreate this page using a Flexbox-based grid system. Use the system developed in 3-flexbox-grid and apply it to this design.
+
+Change any HTML and CSS as required. Feel free to tweak styling as you see fit.
+
+If you have extra time:
+
+Code more pages in the Pie in the Sky website. Look in the "branding" folder for colors, images, and copy.
