@@ -2,4 +2,4 @@
 
 Taught October 3-4, 2017, at Frontend Masters
 
-Streamed online through Facebook: https://www.facebook.com/events/274459603050941/
+Course is located here: https://frontendmasters.com/courses/css-grids-flexbox/ 
