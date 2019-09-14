@@ -3,50 +3,33 @@
   width: 633px;
   height: 458px;
   background: url(mondrian2.png) no-repeat;
- 
+  display: grid;
+  gap: 10px;
+  grid-template-rows: 4fr 1fr 2fr 1fr;
+  grid-template-columns: ;
 }
 div {
-	border: 1px solid black;
-	background-color: white;
-	opacity: 0.5;
+  border: 1px solid black;
+  background-color: white;
+  opacity: 0.5;
 }
 .a {
-
 }
 .b {
-
 }
 .c {
-
 }
 .d {
-
 }
 .e {
-
 }
 .f {
-
 }
 .g {
-	
 }
 .h {
-	
 }
 .i {
-	
 }
 .j {
-	
 }
-
-
-
-
-
-
-
-
-
-
