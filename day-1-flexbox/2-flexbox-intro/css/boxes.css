@@ -5,14 +5,27 @@ ul {
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
-	border: 1px dotted red;
+	border: 5px dotted red;
+
+	display: flex;
+	/* flex-direction:row;
+	flex-wrap: nowrap; */
+	/* flex-flow is equal to flex-direction and flex-wrap */
+	flex-flow: row wrap;
+	justify-content: center;
+	 height: 400px; /* Don't give a height when using flexbox, using this only to demostrait  */
+	align-items: center;
 }
 li {
 	border: 1px solid #999;
 	margin: 0.5em;
 	padding: 0.5em;
 }
-
+.flex2 {
+	border: 5px dashed blue;
+	order: 2;
+	flex-basis: 25%; /* Replace width proprty with the flex-basis */
+}
 
 
 
