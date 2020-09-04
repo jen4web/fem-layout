@@ -6,6 +6,9 @@ ul {
 	padding: 0;
 	margin: 0;
 	border: 1px dotted red;
+	display: flex;
+	flex-direction: row;
+	flex-flow: row nowrap;
 }
 li {
 	border: 1px solid #999;
