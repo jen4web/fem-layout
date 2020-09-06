@@ -8,7 +8,8 @@ ul {
 	border: 1px dotted red;
 	display: flex;
 	flex-direction: row;
-	flex-flow: row nowrap;
+	flex-flow: row wrap;
+	justify-content: space-evenly;
 }
 li {
 	border: 1px solid #999;
