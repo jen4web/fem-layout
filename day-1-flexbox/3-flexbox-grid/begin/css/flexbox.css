@@ -65,6 +65,13 @@ div img {
 	.col-4 {
 		flex: 0 0 92%;
 	}
+	.col-3-6 {
+		flex: 0 0 44%;
+	}
+	.col-6-3 {
+		flex: 0 0 92%;
+		order: -1;
+	}
 
 }
 
@@ -82,5 +89,20 @@ div img {
 	}
 	.col-4 {
 		flex: 0 0 92%;
+	}
+	.col-6-3 {
+		flex: 0 0 44%;
+		order: 0;
+	}
+	.col-3-6 {
+		flex: 0 0 20%;
+	}
+	.reverse {
+		flex-direction: row-reverse;
+	}
+
+	.reverse [class*='col-1'] {
+		margin-left: 0;
+		margin-right: 4%;
 	}
 }
