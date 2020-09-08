@@ -13,7 +13,18 @@ ul {
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
+	display: flex;
+	flex-flow: row wrap;
 }
+
+li {
+	flex: auto;
+}
+
+img {
+	width: 100%;
+}
+
 @media (min-width: 550px) {
 }
 @media (min-width: 850px) { 
